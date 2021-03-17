@@ -5,7 +5,7 @@ This project was create to analyze heart disease, what are the signs of heart di
 - If you want to investigate code, you are welcome to the notebook folder where the whole code was written
 # Used technologies:
 
-- Tensorflow(Neural Network models)c
+- Tensorflow(Neural Network models)
 - Scikit-Learn(GridSearchCV, evaluation, plot decision boundary)
 - Numpy, Pandas and matplotlib(Analysis)
 
